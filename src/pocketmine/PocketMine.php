@@ -76,7 +76,7 @@ namespace pocketmine {
 	const API_VERSION = "1.12.0";
 	const CODENAME = "刀 (Katana)";
 	const MINECRAFT_VERSION = "v1.x";
-	const MINECRAFT_VERSION_NETWORK = "1.2";
+	const MINECRAFT_VERSION_NETWORK = "1.5.0";
 
 	/*
 	 * Startup code. Do not look at it, it may harm you.
